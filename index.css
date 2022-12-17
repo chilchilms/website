@@ -24,6 +24,21 @@ div {
   padding: 0vw 0vh;
   margin: 0vw 0vh;
 }
+.m1{
+  background:yellow;
+  padding:10px;
+  margin:10px;
+}
+.m2{
+  background:yellow;
+  padding:10px;
+  margin:10px;
+}
+.m3{
+  background:yellow;
+  padding:10px;
+  margin:10px;
+}
  .h1{
       color:#fffff0;
     }
