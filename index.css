@@ -28,8 +28,12 @@ div {
       color:#fffff0;
     }
  .h21{
-      border-bottom:dotted
+      border-bottom:dotted;
       color:pink;
+}
+ .h31{
+      border-bottom:dotted;
+      color:greenyellow;
 }
  .midasi{
       background: linear-gradient(transparent 50%, #a8eaff 50%);
