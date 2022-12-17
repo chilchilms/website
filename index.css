@@ -54,3 +54,6 @@ div {
  .a:visited{
       color:silver;
 }
+ .a:hover{
+ color: pink  
+}
